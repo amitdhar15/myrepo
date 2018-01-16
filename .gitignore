@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+/target/test-classes/stepDefination
+/target/test-classes/runner
+/target/test-classes/com
+/target/maven-archiver
+/target/cucumber-report
+/target/cucumber-poc-1.0-SNAPSHOT.jar
+/cucumber-poc.iml
+/.idea
+/bin/
+/.classpath
+/.project
+/target
+.settings
